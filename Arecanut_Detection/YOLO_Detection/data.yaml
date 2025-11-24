@@ -1,0 +1,8 @@
+
+train: /content/drive/MyDrive/BCA_Project_2/M_P_YOLO_Model/train/images
+val: /content/drive/MyDrive/BCA_Project_2/M_P_YOLO_Model/val/images
+test: /content/drive/MyDrive/BCA_Project_2/M_P_YOLO_Model/test/images
+
+nc: 1
+names:
+  - arecanut

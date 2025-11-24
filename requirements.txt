@@ -1,0 +1,14 @@
+numpy
+pandas
+opencv-python
+scikit-learn
+scikit-image
+matplotlib
+tensorflow
+keras
+ultralytics
+albumentations
+joblib
+pyyaml
+tqdm
+notebook
